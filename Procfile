@@ -1,1 +1,1 @@
-web: gunicorn stepik_tours.wsgi --log-file -
+web: gunicorn stepik_tours.wsgi 
